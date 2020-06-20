@@ -4,5 +4,5 @@ This is something I was asked to upload by a reddit user. I'm not even sure what
 even works, but any one is free to use the code.
 
 
-##installation
+## installation
 It's just PHP, so upload it or run it locally on a LAMP stack. No database is required.
